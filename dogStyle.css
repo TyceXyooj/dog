@@ -1,0 +1,21 @@
+/*default for normal text*/
+p{
+    background-color:LightGrey;
+    color:hsl(11, 77%, 25%)
+}
+
+/*Heading of each page*/
+h1{
+    background-color:rgb(140, 111, 104);
+}
+
+/*body background color*/
+body{
+    background-color:rgb(240, 187, 91);
+    font-family:Verdana;
+}
+
+/*top link format*/
+a{
+    font-size:110%;
+}
