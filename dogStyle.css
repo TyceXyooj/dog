@@ -19,3 +19,8 @@ body{
 a{
     font-size:110%;
 }
+
+/*subheading*/
+h2{
+    background-color:rgb(140, 111, 104);
+}
