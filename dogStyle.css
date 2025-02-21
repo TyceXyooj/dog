@@ -20,7 +20,7 @@ a{
     font-size:110%;
 }
 
-/*subheading*/
-h2{
-    background-color:rgb(140, 111, 104);
+/*photocaption*/
+.caption{
+    background-color:hsl(120, 0%, 100%);
 }
